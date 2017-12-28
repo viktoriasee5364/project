@@ -1,0 +1,273 @@
+﻿/*макет*/
+body {
+    background-color:white;
+    font-family:Georgia;
+    font-weight:300;
+    font-size:19px;
+    color:#555;
+
+-webkit-overflow-scrolling:touch;
+
+    margin-top:70px;
+}
+
+/*.centered{
+    text-align:center;
+}*/
+
+a{
+    color:red;
+    text-decoration:none;
+}
+
+.navbar{
+    font-weight:800;
+    font-size:20px; /*menu sverhu*/
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+.navbar-inverse{
+    background:#2d2d2d; /*верхний блок в шаблоне*/
+    border-color:white; /*полоска между черными голубым*/
+}
+/*надпись ЦФР*/
+.navbar-inverse .navbar-brand{
+    color:white;
+    font-weight:bolder;
+    font-size:35px;
+    letter-spacing:1px;
+}
+/*картинка центр функц. развития*/
+#headerwrap{
+    background: linear-gradient(to top, #fff, #34e2d7);
+    margin-top: 50px;
+    padding-top:50px;
+    text-align:center;
+    background-position:center center;
+    min-height:250px;
+    width:100%;
+  
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;    
+}
+
+#headerwrap h1
+{
+    font-size: 70px;
+    color: #fff;
+}
+
+#footer{
+    background:#2d2d2d;
+    width:100%;
+    color:white;
+    text-align:end;
+}
+
+/*дополнение*/
+#leftpic{
+    height:70px;
+    width:100px;
+    float:right;
+    margin:0 5px 10px 5px;
+   
+}
+
+ p {
+    text-indent: 10px; 
+   }
+
+ .dishes{
+     height:200px;
+     width:270px;
+     padding-left:7px;
+ }
+
+ .price{
+     text-align:center;
+     font-weight: 900;
+     color: indigo;
+ }
+ .row{
+     text-align:center;
+     
+ }
+.my_area
+{
+   display: block;
+   width: 100px;
+   height: 100px;
+   border: #d17662 1px solid;
+   background: #b8523c;
+}
+
+/*слайдер*/
+.slider { 
+z-index: 9; 
+width: 700px; 
+height: 290px; 
+overflow: hidden; 
+margin: 0 0 7px; 
+position: relative; 
+
+
+} 
+.slider ul, 
+.slider li { 
+padding: 0; 
+margin: 0; 
+list-style-type: none; 
+} 
+
+.slider ul { 
+width: 9999px; 
+} 
+.slider ul li { 
+list-style-type: none; 
+float: left; 
+width: 700px; 
+height: 290px; 
+} 
+.slider .nav { 
+position: absolute; 
+left: 270px; 
+bottom: 12px; 
+} 
+.slider .nav span { 
+opacity: 0.9; 
+background: #fff; 
+margin: 0 8px 0 0; 
+width: 16px; 
+height: 16px; 
+border-radius: 8px; 
+cursor: pointer; 
+overflow: hidden; 
+display: block; 
+float: left; 
+box-shadow: 0 1px 2px #000; 
+} 
+.slider .nav span.on { 
+background: #1fe5ef; 
+}
+
+.slider { 
+z-index: 9; 
+width: 700px; 
+height: 290px; 
+overflow: hidden; 
+margin: 0 0 7px; 
+position: relative; 
+
+
+} 
+
+@media(max-width:1100px) {
+    #header ul li {
+    width:15%;
+
+    }
+}
+@media(max-width:900px) {
+    #header ul li {
+    width:10%;
+    font-size:10px;
+    }
+}
+
+table{
+    border: 3px solid black;
+    background:linear-gradient(to top, #fff, #red);
+    width: 100%;
+    table-layout: fixed;
+    text-align:center;
+    word-wrap:break-word;
+}
+td, th {
+    padding: 5px; /* Поля вокруг текста */
+    border: 2px solid #000; /* Рамка вокруг ячеек */
+    height:120px;
+}
+th {
+    height:50px;
+    font-weight: 900;
+    white-space: normal;
+    background:#05bfbc;
+    text-align:center;
+}
+
+.childs{
+    background:#fcdba6;
+}
+
+.battle{
+    background:#f1bbbf;
+}
+
+.functional{
+    background:#bcd1f2;
+}
+
+.trane{
+    background:#b4fca6;
+}
+
+.brane{
+    background:#efadf7;
+}
+
+.square {
+	width: 140px;
+	height: 90px;
+    background:#fcdba6;
+    padding: 13px;
+    text-align:center;
+}
+.square2 {
+	width: 140px;
+	height: 90px;
+    background:#f1bbbf;
+    padding: 13px;
+    text-align:center;
+}
+.square3 {
+	width: 140px;
+	height: 90px;
+    background:#bcd1f2;
+    padding: 13px;
+    text-align:center;
+}
+.square4 {
+	width: 140px;
+	height: 90px;
+    background:#b4fca6;
+    padding: 13px;
+    text-align:center;
+}
+.square5 {
+	width: 140px;
+	height: 90px;
+    background:#efadf7;
+    padding: 13px;
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+}
+
+.price th, .price td{
+    height:70px;
+    color: black;
+}
+
+.ushu{
+            text-align:left;
+        }

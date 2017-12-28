@@ -1,0 +1,24 @@
+C:\Users\Виктория\Desktop\Сайт 2017\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Виктория\Desktop\Сайт 2017\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Виктория\Desktop\Сайт 2017\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Виктория\Desktop\Сайт 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Виктория\Desktop\Сайт 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Виктория\Desktop\Сайт 2017\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\OneDrive\Документы\цфр\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Виктория\OneDrive\Документы\цфр\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Виктория\OneDrive\Документы\цфр\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Виктория\OneDrive\Документы\цфр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\OneDrive\Документы\цфр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Виктория\OneDrive\Документы\цфр\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\иринка\Desktop\ВШЭМ\4 курс\1 семестр\веб-дизайн детков\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\иринка\Desktop\ВШЭМ\4 курс\1 семестр\веб-дизайн детков\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\иринка\Desktop\ВШЭМ\4 курс\1 семестр\веб-дизайн детков\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\иринка\Desktop\ВШЭМ\4 курс\1 семестр\веб-дизайн детков\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\иринка\Desktop\ВШЭМ\4 курс\1 семестр\веб-дизайн детков\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\иринка\Desktop\ВШЭМ\4 курс\1 семестр\веб-дизайн детков\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Виктория\Downloads\WebApplication1 (1)\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Виктория\Downloads\WebApplication1 (1)\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Виктория\Downloads\WebApplication1 (1)\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Виктория\Downloads\WebApplication1 (1)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Downloads\WebApplication1 (1)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Виктория\Downloads\WebApplication1 (1)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    <link href="font-awesome.min.css" rel="stylesheet" />
+    <link href="StyleSheet2.css" rel="stylesheet" />
+    <link href="bootstrap.min.css" rel="stylesheet" />  
+    <script src="JavaScript1.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="Home.aspx">ЦФР</a>
+                         </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="Home.aspx">Главная</a></li>
+                        <li><a href="About.aspx">О центре</a></li>
+                        <li><a href="Programmy.aspx">Программы</a></li>
+                        <li><a href="Raspisane.aspx">Расписание</a></li>
+                        <li><a href="Bron.aspx">Контакты</a></li>
+                        <li><a href="Price.aspx">Цены</a></li>
+                        <li><a href="Materials.aspx">УШУ</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>        
+         <div id="headerwrap">
+             <div class="container">
+                 <div class="row centered">
+                     <div class="col-lg-12">
+                         <h1>ЦЕНТР ФУНКЦИОНАЛЬНОГО РАЗВИТИЯ</h1>
+                     </div>
+                 </div>
+            </div>
+         </div>
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <div id="footer">
+             <div class="container">
+                 <div class="row centered">
+                     <div class="col-lg-12">
+                         <h4>г. Екатеринбург, ул. 8 марта, д. 70</h4>
+                         <h4><i class="fa fa-check"></i>Тел.: 8 (343) 206-45-47</h4>
+                     </div>
+                 </div>
+            </div>
+         </div>
+    </div>
+    </form>
+   <script src="jquery.min.js"></script>
+    <script src="responsiveslides.min.js"></script>
+    <script src="bootstrap.min.js"></script>
+<%--    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>--%>
+    
+</body>
+</html>
